@@ -4,7 +4,7 @@ A simple REST API built with Spring Boot 4 that lists non-fork GitHub repositori
 
 ## Tech Stack
 
-- Java 21
+- Java 25
 - Spring Boot 4.1
 - Gradle (Kotlin DSL)
 - JUnit 5
@@ -12,7 +12,7 @@ A simple REST API built with Spring Boot 4 that lists non-fork GitHub repositori
 
 ## Requirements
 
-- Java 21 or higher
+- Java 25
 - No additional setup required (Gradle wrapper included)
 
 ## How to Run
